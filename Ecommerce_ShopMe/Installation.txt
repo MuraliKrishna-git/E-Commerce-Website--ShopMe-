@@ -1,0 +1,10 @@
+Open the folder and extract it to your desired space.
+
+
+1.  Open the folder into your vs code then open the terminal. by using ctrl+` 
+2a. Install the node modules by running the command npm install node
+2b. Type npm i or npm install 
+3.  Type npm run dev
+
+
+The links for Tailwind CSS are already added, if wanted to know more visit Tailwind CSS website.
