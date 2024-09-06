@@ -24,7 +24,7 @@ Further any informations needed feef free to contact me.
 
 
 Name  : Murali Krishna L
-e-Mail: muralikrishna.professional1@gmail.com
+E-Mail: muralikrishna.professional1@gmail.com
 
 
 Inspired from an open source website project and added my animation and some extra elements to it.
